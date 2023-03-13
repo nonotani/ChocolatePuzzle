@@ -1,0 +1,12 @@
+﻿  ChocolatePuzzle.cpp
+  myfunc.cpp
+  Piece.cpp
+  Set.cpp
+  Shape.cpp
+  Sheet.cpp
+  Solution.cpp
+  Previous IPDB not found, fall back to full compilation.
+  コード生成しています。
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  ChocolatePuzzle.vcxproj -> C:\Users\otani\Documents\git\ChocolatePuzzle\ChocolatePuzzle\Release\ChocolatePuzzle.exe
